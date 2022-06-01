@@ -12,5 +12,6 @@ public int sub (int a, int b) {
 	}
 public int mul(int a , int b) {
 	return a*b;
+	//1
 }
 }
