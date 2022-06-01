@@ -46,6 +46,7 @@ public class CalculatorTest {
 	public void testMul() {
 		
 		//1
+		//2
 		int a = 9;
 		int b = 5;
 		Calculator cal = new Calculator();
